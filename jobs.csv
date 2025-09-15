@@ -1,0 +1,251 @@
+job_id,skills,description,num_of_applies
+101,"Django,Angular,TypeScript,Docker,SQL",Django Developer,25
+102,"Node.js,TypeScript,C++,Java",Java Developer,8
+103,"FastAPI,Python,Deep Learning,Docker",Docker Developer,46
+104,"Deep Learning,Data Engineering,SQL,Angular,Java",Angular Developer,20
+105,"Python,Django,FastAPI",Python Developer,13
+106,"Angular,MongoDB,Java",Java Developer,43
+107,"JavaScript,Deep Learning,C++,Kubernetes,Node.js",C++ Developer,12
+108,"NLP,Node.js,Python,FastAPI,C++",Python Developer,14
+109,"React,Django,Node.js,Spring Boot",Node.js Developer,47
+110,"AWS,Node.js,SQL,TypeScript,MongoDB,Java",Java Developer,7
+111,"Django,FastAPI,Spring Boot",FastAPI Developer,13
+112,"Docker,Java,SQL",Docker Developer,34
+113,"NLP,Deep Learning,MongoDB,TypeScript",TypeScript Developer,8
+114,"Java,Docker,JavaScript,NLP,TypeScript,C++",NLP Developer,34
+115,"Angular,Spring Boot,C++,React,FastAPI",Spring Boot Developer,29
+116,"Python,Spring Boot,FastAPI",Python Developer,18
+117,"Angular,SQL,Docker,Data Engineering,FastAPI",Angular Developer,17
+118,"Docker,Kubernetes,FastAPI,NLP,JavaScript,Spring Boot",Kubernetes Developer,47
+119,"JavaScript,Spring Boot,Angular,Python,AWS,C++",Spring Boot Developer,12
+120,"React,MongoDB,NLP",React Developer,47
+121,"Machine Learning,Django,FastAPI,SQL,Python,React",React Developer,49
+122,"Django,TypeScript,Python,Deep Learning,AWS",AWS Developer,18
+123,"JavaScript,NLP,SQL,Python",Python Developer,14
+124,"React,FastAPI,SQL",FastAPI Developer,15
+125,"Data Engineering,AWS,Deep Learning,Spring Boot,Node.js,Angular",Deep Learning Developer,28
+126,"Python,Docker,React,SQL,TypeScript,Spring Boot",Python Developer,28
+127,"MongoDB,Data Engineering,Docker,FastAPI,Python,NLP",Docker Developer,38
+128,"Angular,Docker,Deep Learning,Machine Learning,C++",Deep Learning Developer,16
+129,"AWS,Java,React",React Developer,24
+130,"FastAPI,Python,Spring Boot",Spring Boot Developer,21
+131,"Machine Learning,Data Engineering,FastAPI,Node.js",Machine Learning Developer,33
+132,"JavaScript,C++,FastAPI,Python",FastAPI Developer,40
+133,"Kubernetes,Angular,Java",Java Developer,8
+134,"Kubernetes,Machine Learning,React",Machine Learning Developer,32
+135,"TypeScript,Deep Learning,Data Engineering,Node.js,C++",Node.js Developer,39
+136,"Kubernetes,NLP,SQL",NLP Developer,21
+137,"Docker,Node.js,Data Engineering,TypeScript,Angular,Python",Node.js Developer,20
+138,"JavaScript,C++,MongoDB,Deep Learning,AWS",JavaScript Developer,7
+139,"Angular,Machine Learning,SQL",Machine Learning Developer,29
+140,"React,Data Engineering,Docker,SQL",Data Engineering Developer,30
+141,"React,Data Engineering,Angular,Docker,Kubernetes",Angular Developer,29
+142,"Spring Boot,Java,Data Engineering,React",React Developer,18
+143,"Kubernetes,Node.js,TypeScript,Machine Learning",Node.js Developer,20
+144,"Data Engineering,Python,Machine Learning,Node.js,Deep Learning,Angular",Machine Learning Developer,35
+145,"JavaScript,Deep Learning,Java",JavaScript Developer,18
+146,"Spring Boot,SQL,Deep Learning,C++,Angular",Spring Boot Developer,50
+147,"Django,Python,FastAPI,Deep Learning",Django Developer,22
+148,"SQL,Spring Boot,C++,Data Engineering,JavaScript,Kubernetes",Kubernetes Developer,31
+149,"Kubernetes,Deep Learning,MongoDB,JavaScript,Spring Boot",JavaScript Developer,20
+150,"JavaScript,Deep Learning,React,TypeScript,SQL",JavaScript Developer,28
+151,"Deep Learning,React,MongoDB,AWS,Spring Boot",React Developer,27
+152,"NLP,Node.js,Django",Django Developer,49
+153,"Spring Boot,React,Machine Learning",Machine Learning Developer,35
+154,"AWS,MongoDB,C++",MongoDB Developer,47
+155,"Deep Learning,JavaScript,Machine Learning,Data Engineering,Angular",Deep Learning Developer,43
+156,"AWS,Python,TypeScript,Java,MongoDB",TypeScript Developer,12
+157,"Machine Learning,Kubernetes,C++,MongoDB,SQL,TypeScript",MongoDB Developer,18
+158,"Docker,Node.js,AWS,C++,Deep Learning,Django",Deep Learning Developer,20
+159,"Kubernetes,Spring Boot,React,Machine Learning,C++,Angular",Machine Learning Developer,43
+160,"MongoDB,Node.js,Kubernetes",MongoDB Developer,33
+161,"Machine Learning,Node.js,Java,TypeScript,C++,AWS",Machine Learning Developer,18
+162,"Data Engineering,FastAPI,Kubernetes,MongoDB,Node.js,Machine Learning",Node.js Developer,39
+163,"C++,Docker,Angular,JavaScript,Java,SQL",Java Developer,45
+164,"Kubernetes,React,Angular,Data Engineering,JavaScript",JavaScript Developer,30
+165,"FastAPI,JavaScript,Deep Learning,MongoDB,Django,TypeScript",TypeScript Developer,36
+166,"Spring Boot,Data Engineering,Java,Kubernetes",Kubernetes Developer,26
+167,"NLP,Java,Data Engineering",Data Engineering Developer,33
+168,"Node.js,Spring Boot,Java,React,MongoDB,Django",React Developer,23
+169,"SQL,NLP,JavaScript,C++,Django,Machine Learning",SQL Developer,24
+170,"Node.js,React,SQL,Deep Learning,JavaScript",React Developer,37
+171,"Node.js,Kubernetes,Python,Docker",Node.js Developer,46
+172,"Django,Python,JavaScript,Java,Kubernetes,C++",Python Developer,42
+173,"Node.js,Data Engineering,Spring Boot",Data Engineering Developer,15
+174,"Angular,Docker,Java",Angular Developer,30
+175,"TypeScript,Docker,JavaScript,AWS",AWS Developer,20
+176,"NLP,Kubernetes,Spring Boot,MongoDB",Kubernetes Developer,9
+177,"React,Spring Boot,Deep Learning",Spring Boot Developer,22
+178,"Python,Java,Angular",Python Developer,24
+179,"Deep Learning,SQL,Kubernetes,TypeScript",Deep Learning Developer,47
+180,"Deep Learning,FastAPI,C++,NLP,Angular",Deep Learning Developer,10
+181,"TypeScript,Java,React,Django",React Developer,26
+182,"Machine Learning,Data Engineering,C++,Django,MongoDB",C++ Developer,16
+183,"Kubernetes,Django,C++,Deep Learning,Docker",C++ Developer,45
+184,"Angular,TypeScript,Python,AWS,JavaScript",TypeScript Developer,45
+185,"Node.js,Docker,MongoDB,Angular,AWS",Docker Developer,43
+186,"Node.js,Kubernetes,Spring Boot,SQL,React",Spring Boot Developer,28
+187,"C++,AWS,MongoDB,Python,Data Engineering",MongoDB Developer,44
+188,"Node.js,MongoDB,FastAPI",MongoDB Developer,39
+189,"AWS,Django,Angular,Python",Python Developer,45
+190,"JavaScript,Django,FastAPI,AWS,SQL",SQL Developer,25
+191,"Angular,Java,JavaScript,FastAPI,Django",Angular Developer,5
+192,"Java,SQL,Kubernetes,AWS,Deep Learning,C++",Deep Learning Developer,12
+193,"Data Engineering,React,Docker,Python,JavaScript",JavaScript Developer,15
+194,"JavaScript,FastAPI,Node.js",Node.js Developer,42
+195,"Node.js,Deep Learning,JavaScript",Deep Learning Developer,25
+196,"Java,React,Data Engineering,MongoDB,JavaScript,AWS",Java Developer,28
+197,"Spring Boot,Deep Learning,C++,Java,React",Java Developer,35
+198,"AWS,SQL,Data Engineering,MongoDB,Deep Learning",MongoDB Developer,17
+199,"Django,FastAPI,JavaScript",JavaScript Developer,43
+200,"JavaScript,Node.js,MongoDB,React,NLP",JavaScript Developer,11
+201,"TypeScript,Java,AWS",TypeScript Developer,17
+202,"Java,SQL,Docker,NLP,JavaScript",Docker Developer,29
+203,"AWS,SQL,MongoDB",MongoDB Developer,16
+204,"Kubernetes,JavaScript,Node.js,TypeScript",Kubernetes Developer,8
+205,"MongoDB,Python,Data Engineering,Java,React",MongoDB Developer,23
+206,"Node.js,Django,React,AWS,Spring Boot,TypeScript",TypeScript Developer,15
+207,"Spring Boot,MongoDB,TypeScript",Spring Boot Developer,19
+208,"Python,C++,React",Python Developer,22
+209,"Angular,Java,C++,NLP",Angular Developer,21
+210,"React,AWS,Machine Learning,MongoDB",AWS Developer,41
+211,"Spring Boot,Deep Learning,Kubernetes,MongoDB,Node.js",MongoDB Developer,38
+212,"JavaScript,Java,NLP,MongoDB,Angular,Python",Python Developer,6
+213,"SQL,MongoDB,Java,NLP",NLP Developer,28
+214,"Node.js,MongoDB,Django,Spring Boot,TypeScript",Django Developer,29
+215,"Node.js,FastAPI,C++,Machine Learning,JavaScript",C++ Developer,5
+216,"Node.js,MongoDB,C++",MongoDB Developer,19
+217,"Deep Learning,AWS,MongoDB",Deep Learning Developer,37
+218,"Python,TypeScript,Data Engineering,NLP,Java,Docker",TypeScript Developer,30
+219,"Deep Learning,JavaScript,Kubernetes,AWS,Python",AWS Developer,33
+220,"AWS,MongoDB,Deep Learning",AWS Developer,6
+221,"Docker,Django,Deep Learning,Machine Learning",Machine Learning Developer,48
+222,"Java,Node.js,TypeScript,C++,Docker",Docker Developer,14
+223,"C++,JavaScript,Data Engineering,Java,Angular",JavaScript Developer,6
+224,"TypeScript,FastAPI,Deep Learning",Deep Learning Developer,31
+225,"Angular,Java,MongoDB,React,FastAPI",Java Developer,37
+226,"Docker,SQL,JavaScript",Docker Developer,42
+227,"Django,NLP,Spring Boot,Node.js,Deep Learning",Django Developer,42
+228,"Docker,NLP,Python",Python Developer,12
+229,"C++,SQL,Python,React",C++ Developer,50
+230,"FastAPI,JavaScript,Docker,Spring Boot",Docker Developer,7
+231,"AWS,React,JavaScript,Docker",JavaScript Developer,44
+232,"NLP,Spring Boot,Angular,Kubernetes,MongoDB,Docker",MongoDB Developer,49
+233,"AWS,Angular,FastAPI,C++,SQL,Kubernetes",C++ Developer,25
+234,"MongoDB,Deep Learning,SQL",MongoDB Developer,25
+235,"Python,React,NLP",Python Developer,33
+236,"FastAPI,Docker,Django,Python,Java,MongoDB",Python Developer,47
+237,"AWS,SQL,NLP",AWS Developer,22
+238,"React,SQL,TypeScript,JavaScript,C++,MongoDB",C++ Developer,5
+239,"Spring Boot,Docker,MongoDB,React",Spring Boot Developer,10
+240,"Machine Learning,JavaScript,Node.js,React,AWS,Deep Learning",AWS Developer,33
+241,"Machine Learning,Data Engineering,JavaScript,React",Machine Learning Developer,19
+242,"Deep Learning,SQL,AWS,MongoDB,Data Engineering",Data Engineering Developer,33
+243,"TypeScript,C++,Kubernetes,Angular",C++ Developer,12
+244,"Django,JavaScript,Docker,NLP,Node.js,Data Engineering",Data Engineering Developer,29
+245,"NLP,FastAPI,Python",FastAPI Developer,42
+246,"Python,Kubernetes,React,Deep Learning,Machine Learning,AWS",AWS Developer,37
+247,"Angular,FastAPI,Django,JavaScript",Django Developer,28
+248,"Kubernetes,SQL,Data Engineering,Angular,Python,C++",Data Engineering Developer,35
+249,"FastAPI,Angular,Data Engineering",Angular Developer,13
+250,"Angular,MongoDB,Docker,Deep Learning,AWS,SQL",AWS Developer,24
+251,"Java,React,MongoDB,FastAPI,Docker",Java Developer,45
+252,"Deep Learning,Docker,Machine Learning,JavaScript,React,SQL",React Developer,39
+253,"NLP,MongoDB,Django,Python",NLP Developer,26
+254,"Node.js,Python,SQL",Python Developer,20
+255,"Spring Boot,Docker,Node.js,SQL",Docker Developer,20
+256,"Django,NLP,Kubernetes,TypeScript,Angular,Java",NLP Developer,11
+257,"Angular,Docker,Kubernetes,Node.js",Docker Developer,17
+258,"Django,SQL,Spring Boot,Data Engineering,Python",SQL Developer,35
+259,"NLP,SQL,MongoDB,Data Engineering",SQL Developer,46
+260,"Data Engineering,NLP,Spring Boot",NLP Developer,41
+261,"React,MongoDB,Deep Learning,Django,Spring Boot",Django Developer,22
+262,"Node.js,TypeScript,Django,SQL",SQL Developer,12
+263,"Machine Learning,Spring Boot,Data Engineering,MongoDB,Docker",Machine Learning Developer,35
+264,"Spring Boot,React,Django,Angular",Angular Developer,40
+265,"TypeScript,FastAPI,Data Engineering,Spring Boot",TypeScript Developer,26
+266,"Docker,Spring Boot,Node.js,Angular,Deep Learning,TypeScript",TypeScript Developer,16
+267,"Data Engineering,TypeScript,MongoDB,Angular,Machine Learning,JavaScript",Data Engineering Developer,34
+268,"Angular,FastAPI,Spring Boot",FastAPI Developer,10
+269,"Docker,FastAPI,MongoDB",MongoDB Developer,41
+270,"Node.js,Python,SQL,Angular",Python Developer,31
+271,"C++,Data Engineering,JavaScript",Data Engineering Developer,39
+272,"Django,NLP,FastAPI,Deep Learning,Kubernetes,SQL",Deep Learning Developer,39
+273,"FastAPI,SQL,Java",SQL Developer,15
+274,"Machine Learning,MongoDB,Python,Deep Learning,Data Engineering,AWS",Data Engineering Developer,9
+275,"JavaScript,Deep Learning,Angular",Angular Developer,8
+276,"Docker,Deep Learning,Angular",Docker Developer,41
+277,"Machine Learning,Spring Boot,Docker,Angular,Node.js",Machine Learning Developer,44
+278,"MongoDB,Machine Learning,Data Engineering,Java,Kubernetes",Data Engineering Developer,36
+279,"Docker,C++,NLP,Deep Learning,SQL,AWS",Docker Developer,22
+280,"React,Docker,FastAPI,Angular,Spring Boot,Kubernetes",React Developer,8
+281,"Kubernetes,Django,TypeScript,Machine Learning,AWS,C++",Machine Learning Developer,33
+282,"FastAPI,C++,Node.js,NLP,Python,Deep Learning",C++ Developer,40
+283,"TypeScript,Docker,Data Engineering,SQL,Java",TypeScript Developer,17
+284,"React,Docker,MongoDB,Machine Learning",Docker Developer,8
+285,"Deep Learning,SQL,C++,TypeScript,React",TypeScript Developer,38
+286,"Django,NLP,C++,Java",Java Developer,21
+287,"Deep Learning,Data Engineering,TypeScript,Django,AWS",AWS Developer,35
+288,"AWS,Kubernetes,NLP,Java",Java Developer,27
+289,"Machine Learning,FastAPI,React,Java",Java Developer,21
+290,"Spring Boot,React,TypeScript",TypeScript Developer,35
+291,"Spring Boot,C++,NLP",Spring Boot Developer,27
+292,"Angular,JavaScript,React,TypeScript,Machine Learning,Node.js",React Developer,21
+293,"NLP,Deep Learning,Django,Data Engineering,Python,Kubernetes",Data Engineering Developer,35
+294,"Java,FastAPI,Node.js",FastAPI Developer,24
+295,"NLP,Java,React,AWS",NLP Developer,8
+296,"Python,FastAPI,Spring Boot",FastAPI Developer,31
+297,"Kubernetes,Docker,Node.js,MongoDB",Node.js Developer,23
+298,"Python,Machine Learning,Docker",Docker Developer,46
+299,"AWS,FastAPI,Spring Boot,React,Data Engineering,NLP",NLP Developer,37
+300,"Django,SQL,Kubernetes,TypeScript,Python,C++",Django Developer,34
+301,"SQL,Kubernetes,NLP,Machine Learning",Machine Learning Developer,42
+302,"SQL,Spring Boot,Data Engineering,Docker,Deep Learning,Java",Deep Learning Developer,28
+303,"AWS,FastAPI,Python,Spring Boot",Spring Boot Developer,45
+304,"Data Engineering,TypeScript,Kubernetes,Java,Django",Data Engineering Developer,41
+305,"Java,Kubernetes,Node.js,C++,JavaScript,Machine Learning",Node.js Developer,13
+306,"AWS,React,Kubernetes,Docker,TypeScript",TypeScript Developer,10
+307,"SQL,C++,Django,Machine Learning,MongoDB,Deep Learning",Django Developer,30
+308,"NLP,MongoDB,Django,Kubernetes,TypeScript",Django Developer,46
+309,"C++,SQL,TypeScript,Deep Learning",Deep Learning Developer,28
+310,"Machine Learning,NLP,JavaScript,Kubernetes",NLP Developer,30
+311,"Django,React,TypeScript",TypeScript Developer,7
+312,"Data Engineering,Node.js,Docker",Data Engineering Developer,42
+313,"TypeScript,C++,React,Python",TypeScript Developer,36
+314,"SQL,NLP,Django",Django Developer,32
+315,"AWS,React,Data Engineering,FastAPI,Node.js",AWS Developer,30
+316,"FastAPI,C++,MongoDB,Spring Boot",C++ Developer,31
+317,"Node.js,Django,Java,JavaScript,Deep Learning,NLP",Django Developer,26
+318,"AWS,Python,Data Engineering,NLP,Angular,React",Data Engineering Developer,15
+319,"Machine Learning,NLP,React,Django",Machine Learning Developer,23
+320,"AWS,MongoDB,JavaScript,Spring Boot,Docker,Node.js",Docker Developer,45
+321,"React,Node.js,FastAPI,TypeScript,Kubernetes",FastAPI Developer,8
+322,"JavaScript,MongoDB,FastAPI",MongoDB Developer,48
+323,"Deep Learning,MongoDB,Django,JavaScript,Spring Boot",Django Developer,11
+324,"Docker,Java,MongoDB,NLP",Java Developer,12
+325,"MongoDB,Python,NLP,Node.js",Node.js Developer,45
+326,"TypeScript,Django,Python,MongoDB,Machine Learning",Machine Learning Developer,32
+327,"Data Engineering,JavaScript,SQL,Java",SQL Developer,6
+328,"Data Engineering,Angular,Kubernetes,Machine Learning",Data Engineering Developer,47
+329,"Node.js,C++,MongoDB,Data Engineering",Node.js Developer,12
+330,"Angular,React,MongoDB,C++,Java,JavaScript",Java Developer,24
+331,"Machine Learning,Django,Node.js,FastAPI",Machine Learning Developer,28
+332,"TypeScript,JavaScript,React,Deep Learning,Python",React Developer,31
+333,"Python,Java,Docker",Docker Developer,5
+334,"Data Engineering,Node.js,Angular",Node.js Developer,41
+335,"NLP,C++,Data Engineering",NLP Developer,31
+336,"C++,Docker,Deep Learning,SQL,AWS",C++ Developer,16
+337,"Docker,FastAPI,React,Python,Machine Learning",React Developer,33
+338,"Deep Learning,JavaScript,Django,Angular,React",React Developer,49
+339,"Machine Learning,Angular,Python",Machine Learning Developer,30
+340,"Data Engineering,JavaScript,Docker,Django,FastAPI",JavaScript Developer,18
+341,"Python,Deep Learning,Angular,Node.js,React,C++",Deep Learning Developer,29
+342,"Kubernetes,Angular,React,Docker,FastAPI",React Developer,50
+343,"Python,Angular,TypeScript",Angular Developer,29
+344,"Kubernetes,Machine Learning,Deep Learning",Kubernetes Developer,22
+345,"JavaScript,Angular,AWS",JavaScript Developer,16
+346,"FastAPI,Node.js,Kubernetes,Machine Learning,SQL",Node.js Developer,33
+347,"FastAPI,Deep Learning,Docker,SQL,Django",Docker Developer,33
+348,"Machine Learning,Deep Learning,React,Kubernetes,AWS",Machine Learning Developer,28
+349,"Django,JavaScript,Java,TypeScript,AWS,SQL",TypeScript Developer,46
+350,"JavaScript,SQL,Django,Java",JavaScript Developer,33
